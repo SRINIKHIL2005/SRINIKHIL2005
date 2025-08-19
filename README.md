@@ -37,6 +37,19 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 ---
 
 ## 🔧 Skills 
+✅ Comfortable With
+Languages: C, Python, Java, JavaScript
+Frontend: HTML, CSS, React (basic)
+Backend: Node.js, Flask (basic)
+Databases: MySQL, MongoDB
+Cloud: AWS (Cloud Practitioner certified)
+Version Control: Git, GitHub
+🚀 Currently Exploring
+TensorFlow / Keras (Transfer Learning)
+Docker
+Jenkins (CI/CD pipelines)
+Firebase
+PyTorch (basics for LLMs, Gemini API)
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,flask" />
