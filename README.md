@@ -86,8 +86,9 @@ Automates quiz creation from PDFs using PyMuPDF + Gemini API.
 
 #### 💬 Enhanced Feedback Galaxy (E-F-G) · `e-f-g`  
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-Feedback ingestion + simple analytics platform.  
+Feedback ingestion & analytics platform (Node.js + MongoDB).  
 🔗 [Live](https://e-f-g-1.onrender.com/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/EDUGALXY)
+
 ---
 
 #### 📚 Solo Learn (MERN Mini) · `solo-learn`  
