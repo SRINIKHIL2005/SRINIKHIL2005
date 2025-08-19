@@ -36,22 +36,31 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 
 ---
 
-## 🔧 Skills 
 ## 🛠️ Skills
 
 ### ✅ Comfortable With
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+- Languages: C, Python, Java, JavaScript  
+- Frontend: HTML, CSS, React (basic)  
+- Backend: Node.js, Flask (basic)  
+- Databases: MySQL, MongoDB  
+- Cloud: AWS (Cloud Practitioner certified)  
+- Tools: Git, GitHub  
+
+### 🚀 Currently Exploring
+- TensorFlow / Keras (Transfer Learning)  
+- Docker & Jenkins (CI/CD pipelines)  
+- Firebase  
+- PyTorch (LLMs & Gemini API basics)  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,flask" />
+  <br/>
+  <!-- Databases & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,aws,docker" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ### 🚀 Currently Exploring
