@@ -30,7 +30,7 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 ---
 
 ## 🚀 Current Focus
-- 🧠 Learning transfer learning basics (TensorFlow/Keras)  
+- 🧠 Learning basics (TensorFlow/Keras)  
 - ⚡ Building lightweight Flask/Node APIs to serve model predictions  
 - 🐳 Exploring CI/CD with Jenkins + Docker (for small demos)  
 
@@ -48,8 +48,8 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 
 ### 🚀 Currently Exploring
 - TensorFlow / Keras (Transfer Learning)  
-- Docker & Jenkins (CI/CD pipelines)  
-- Firebase  
+- Docker & Jenkins (CI/CD pipelines)
+- Deep Learning 
 - PyTorch (LLMs & Gemini API basics)  
 
 <p align="center">
