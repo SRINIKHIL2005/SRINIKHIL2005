@@ -46,11 +46,6 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 - Cloud: AWS (Cloud Practitioner certified)  
 - Tools: Git, GitHub  
 
-### 🚀 Currently Exploring
-- TensorFlow / Keras (Transfer Learning)  
-- Docker & Jenkins (CI/CD pipelines)
-- Deep Learning 
-- PyTorch (LLMs & Gemini API basics)  
 
 <p align="center">
   <!-- Languages -->
@@ -64,6 +59,11 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 </p>
 
 ### 🚀 Currently Exploring
+- TensorFlow / Keras (Transfer Learning)  
+- Docker & Jenkins (CI/CD pipelines)
+- Deep Learning 
+- PyTorch (LLMs & Gemini API basics)
+  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
