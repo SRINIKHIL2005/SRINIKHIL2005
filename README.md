@@ -1,54 +1,85 @@
-# Hi 👋 I'm Sri Nikhil (Sri Nikhil Dronadula)
+<div align="center">
+  <h1>Hi 👋, I'm <b>Sri Nikhil</b> (Sri Nikhil Dronadula)</h1>
+  <p><i>Learning AI • Building Web Apps • Exploring DevOps</i></p>
 
-**AI & Full-Stack Developer | AWS Cloud Practitioner**  
-📧 dronasrinikhil@gmail.com · 📱 +91-9014189362  
-🌐 Portfolio: https://portfolio-git-main-srinikhil2005s-projects.vercel.app/  
-🐙 GitHub: https://github.com/SRINIKHIL2005 · 
-🔗 LinkedIn: http://www.linkedin.com/in/srinikhildronadula
+  <!-- Contact badges -->
+  <p>
+    <a href="mailto:dronasrinikhil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dronasrinikhil@gmail.com-c14438?style=for-the-badge&logo=gmail"/></a>
+    <a href="https://portfolio-git-main-srinikhil2005s-projects.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-000?style=for-the-badge&logo=vercel"/></a>
+    <a href="http://www.linkedin.com/in/srinikhildronadula"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+    <a href="https://github.com/SRINIKHIL2005"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@SRINIKHIL2005-181717?style=for-the-badge&logo=github"/></a>
+  </p>
 
----
-
-## About me
-I build web applications and experiment with practical AI features. I focus on learning by shipping small, real projects end-to-end — frontend, backend, basic model work, and deployment.
-
-(Selected highlights are taken from my recent work and learning — see linked projects below.)  
-
----
-
-## Key skills & certifications
-- **Languages / Frameworks:** C, Java, Python, JavaScript, React, Node.js, Flask.  
-- **Databases / Cloud:** MongoDB, MySQL, Firebase, PostgreSQL, AWS (Cloud Practitioner).  
-- **AI / Tools:** Intro to PyTorch & LLM integration (Gemini API), NVIDIA training certs.  
-- **DevOps basics:** Docker, CI/CD concepts, Jenkins (learning pipelines).  
-
-*Certifications:* AWS Certified Cloud Practitioner; NVIDIA and AI/ML coursework. :contentReference[oaicite:1]{index=1}
+  <!-- Quick summary -->
+  <p>
+    <strong>AI & Web Developer • AWS Cloud Practitioner</strong><br/>
+    Building small, focused projects that demonstrate a full flow: idea → prototype → demo.
+  </p>
+</div>
 
 ---
 
-## Featured projects (pin these repos)
-### 1) **AI-Powered Quiz Generator** — `ai-quiz-generator`  
-Automated quiz creation from PDFs using PyMuPDF + Gemini API. Live demo: https://srinikhil2005.github.io/AI-Powered-Quiz-Generator/  
-
-### 2) **Enhanced Feedback Galaxy (E-F-G)** — `e-f-g`  
-Feedback processing app (Node.js + MongoDB) — live: https://e-f-g-1.onrender.com/  
-
-### 3) **Solo Learn — Learning Platform (MERN)** — `solo-learn`  
-Small MERN stack learning platform demonstrating authentication and basic analytics. Live snapshot: https://srinikhil2005.github.io/Solo-Learn-Learning-Platform-/  
+## 🚀 Current Focus
+- Learning transfer learning basics (small-scale TensorFlow / Keras experiments)  
+- Building lightweight Flask/Node APIs to expose model predictions  
+- Exploring CI/CD basics with Jenkins and Docker, and deploying simple demos
 
 ---
 
-## What I’m learning next
-- Transfer learning with TensorFlow/Keras (small datasets).
-- Deep Learning with related Models.  
-- CI/CD with Jenkins (simple pipelines for Python apps).  
-- Production deployment best practices (Docker + managed services).
+## 🔧 Skills (practical & honest)
+**Python · Java · JavaScript · Flask (basic) · Node.js · React (basic) · MongoDB · MySQL · AWS (Cloud Practitioner)**
+
 
 ---
 
-## How to contact
-- LinkedIn: http://www.linkedin.com/in/srinikhildronadula  
-- Email: dronasrinikhil@gmail.com
+## ⭐ Featured projects (pin these repos)
+> Short, visual cards — link your repos here. Replace `REPO-URL` and `demo` links.
+
+#### AI-Powered Quiz Generator · `ai-quiz-generator`  
+Automates question creation from PDFs (demo + short notebook).  
+🔗 Demo: https://srinikhil2005.github.io/AI-Powered-Quiz-Generator/ · 🔗 Repo: https://github.com/SRINIKHIL2005/ai-quiz-generator
+
+#### Enhanced Feedback Galaxy · `e-f-g`  
+Feedback ingestion + simple analytics (Node + Mongo).  
+🔗 Live: https://e-f-g-1.onrender.com/ · 🔗 Repo: https://github.com/SRINIKHIL2005/e-f-g
+
+#### Solo Learn (MERN mini) · `solo-learn`  
+Small learning platform (auth demo, sample analytics).  
+🔗 Snapshot: https://srinikhil2005.github.io/Solo-Learn-Learning-Platform-/ · 🔗 Repo: https://github.com/SRINIKHIL2005/solo-learn
 
 ---
 
-*Note:* I keep this profile honest — projects show what I implemented and what I’m still learning. If you want to collaborate or give feedback, please reach out!
+## 📊 GitHub & language stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SRINIKHIL2005&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIKHIL2005&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
+## ✨ Ideas board (pick one, implement small MVP, pin it)
+- Lightweight image classifier: mobile-friendly (transfer learning on 1–2k images)  
+- Flask API that serves a simple model prediction + demo page  
+- Jenkins pipeline demo: run lint → tests → package → archive artifact  
+- Tiny automation: scheduled data scraper + db store + dashboard (Grafana/Plotly)  
+- Notebook: “From PDF → Questions” pipeline (clear notebook + sample PDF)
+
+---
+
+## 🐍 Contribution graph (streak & visual)
+I keep my activity honest — small daily commits, issues, and PRs.  
+(See below for an **ethical** way to keep your contribution graph active automatically.)
+
+---
+
+## 📫 Contact
+- Email: dronasrinikhil@gmail.com  
+- LinkedIn: http://www.linkedin.com/in/srinikhildronadula
+
+---
+
+> I keep this profile truthful: small, working demos and notebooks that show what I implemented.  
+> Want me to expand a demo into a 1-click deploy? Ping me — I love collaborating.
+
+
+
