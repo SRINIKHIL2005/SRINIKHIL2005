@@ -37,30 +37,32 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 ---
 
 ## 🔧 Skills 
-✅ Comfortable With
-Languages: C, Python, Java, JavaScript
-Frontend: HTML, CSS, React (basic)
-Backend: Node.js, Flask (basic)
-Databases: MySQL, MongoDB
-Cloud: AWS (Cloud Practitioner certified)
-Version Control: Git, GitHub
-🚀 Currently Exploring
-TensorFlow / Keras (Transfer Learning)
-Docker
-Jenkins (CI/CD pipelines)
-Firebase
-PyTorch (basics for LLMs, Gemini API)
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,flask" />
-  <br/>
-  <!-- Databases & Cloud -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,aws" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+## 🛠️ Skills
+
+### ✅ Comfortable With
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
+### 🚀 Currently Exploring
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
