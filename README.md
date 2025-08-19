@@ -1,3 +1,6 @@
+<!-- Advanced GitHub Profile README for Sri Nikhil -->
+
+<!-- Banner (create your own banner.png in Canva/Figma and upload here) -->
 <img src="banner.png" alt="Sri Nikhil Dronadula Banner" width="100%"/>
 
 <div align="center">
@@ -18,42 +21,49 @@
 
 </div>
 
-## 🚀 Current Focus
-- Transfer learning experiments with TensorFlow/Keras  
-- Building lightweight Flask/Node APIs to expose models  
-- Exploring CI/CD basics with Jenkins & Docker  
+## 👨‍💻 About Me
+**AI & Web Developer • AWS Cloud Practitioner**  
+I build small, end-to-end projects that go from idea → prototype → demo.  
+Currently focusing on practical AI, web apps, and deployment with DevOps basics.  
 
 ---
 
-## 🔧 Skills
+## 🚀 Current Focus
+- 🧠 Learning transfer learning basics (TensorFlow/Keras)  
+- ⚡ Building lightweight Flask/Node APIs to serve model predictions  
+- 🐳 Exploring CI/CD with Jenkins + Docker (for small demos)  
+
+---
+
+## 🔧 Skills (practical & honest)
 **Python · Java · JavaScript · Flask (basic) · Node.js · React (basic) · MongoDB · MySQL · AWS (Cloud Practitioner)**  
 
 ---
 
 ## ⭐ Featured Projects
 
-#### 📝 AI-Powered Quiz Generator  
+#### 📝 AI-Powered Quiz Generator · `ai-quiz-generator`  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-Automates question creation from PDFs using PyMuPDF + Gemini API.  
+Automates quiz creation from PDFs using PyMuPDF + Gemini API.  
 🔗 [Demo](https://srinikhil2005.github.io/AI-Powered-Quiz-Generator/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/ai-quiz-generator)
 
 ---
 
-#### 💬 Enhanced Feedback Galaxy (E-F-G)  
+#### 💬 Enhanced Feedback Galaxy (E-F-G) · `e-f-g`  
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 Feedback ingestion + simple analytics platform.  
 🔗 [Live](https://e-f-g-1.onrender.com/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/e-f-g)
 
 ---
 
-#### 📚 Solo Learn (MERN Mini)  
+#### 📚 Solo Learn (MERN Mini) · `solo-learn`  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-Mini learning platform demonstrating authentication + analytics.  
+Mini learning platform (auth demo + sample analytics).  
 🔗 [Snapshot](https://srinikhil2005.github.io/Solo-Learn-Learning-Platform-/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/solo-learn)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SRINIKHIL2005&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIKHIL2005&layout=compact&theme=radical" alt="Top languages" />
@@ -69,12 +79,9 @@ Mini learning platform demonstrating authentication + analytics.
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/SRINIKHIL2005/SRINIKHIL2005/blob/output/github-contribution-grid-snake.svg)
+## 📫 Contact
+- 📧 Email: **dronasrinikhil@gmail.com**  
+- 🔗 LinkedIn: [Sri Nikhil Dronadula](http://www.linkedin.com/in/srinikhildronadula)  
+- 🌐 Portfolio: [View Here](https://portfolio-git-main-srinikhil2005s-projects.vercel.app/)
 
 ---
-
-## 📫 Contact
-- Email: **dronasrinikhil@gmail.com**  
-- LinkedIn: [Sri Nikhil Dronadula](http://www.linkedin.com/in/srinikhildronadula)  
-- Portfolio: [View Here](https://portfolio-git-main-srinikhil2005s-projects.vercel.app/)
