@@ -18,13 +18,15 @@
 </div>
 
 ## 👨‍💻 About Me
-**AI & Web Developer • AWS Cloud Practitioner**  
+AI & Web Developer • AWS Cloud Practitioner  
 I build small, end-to-end projects that go from idea → prototype → demo.  
 Currently focusing on practical AI, web apps, and deployment with DevOps basics.  
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech 
-👩🏻‍🎓 Studying Computer Science at KL University Hyderabad
+
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech  
+👩🏻‍🎓 Studying Computer Science at KL University Hyderabad  
 🎨 Experimenting with end-to-end apps (idea → prototype → deployment)  
 💭 Currently learning transfer learning, CI/CD with Jenkins, and Docker basics  
+
 ---
 
 ## 🚀 Current Focus
