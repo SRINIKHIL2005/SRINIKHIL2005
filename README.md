@@ -2,6 +2,7 @@
 <div align="center">
 
 # Hi 👋, I'm <b>Sri Nikhil</b> (Sri Nikhil Dronadula)  
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F70A8D&width=600&lines=AI+Enthusiast;Full+Stack+Learner;Exploring+Cloud+and+DevOps)](https://git.io/typing-svg)
 
