@@ -108,12 +108,13 @@ Mini learning platform (auth demo + sample analytics).
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIKHIL2005&theme=radical" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIKHIL2005&theme=radical&hide_total_contributions=true" alt="streak stats"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SRINIKHIL2005&theme=radical&row=1&column=6" alt="trophies"/>
 </p>
+
 
 ---
 
