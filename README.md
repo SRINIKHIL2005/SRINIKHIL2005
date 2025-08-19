@@ -21,7 +21,10 @@
 **AI & Web Developer • AWS Cloud Practitioner**  
 I build small, end-to-end projects that go from idea → prototype → demo.  
 Currently focusing on practical AI, web apps, and deployment with DevOps basics.  
-
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech 
+👩🏻‍🎓 Studying Computer Science at KL University Hyderabad
+🎨 Experimenting with end-to-end apps (idea → prototype → deployment)  
+💭 Currently learning transfer learning, CI/CD with Jenkins, and Docker basics  
 ---
 
 ## 🚀 Current Focus
@@ -32,7 +35,17 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 ---
 
 ## 🔧 Skills 
-**Python · Java · JavaScript · Flask (basic) · Node.js · React (basic) · MongoDB · MySQL · AWS (Cloud Practitioner)**  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,flask" />
+  <br/>
+  <!-- Databases & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,aws" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
 ---
 
