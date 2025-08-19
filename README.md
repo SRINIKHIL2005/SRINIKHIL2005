@@ -1,7 +1,3 @@
-<!-- Advanced GitHub Profile README for Sri Nikhil -->
-
-<!-- Banner (create your own banner.png in Canva/Figma and upload here) -->
-<img src="banner.png" alt="Sri Nikhil Dronadula Banner" width="100%"/>
 
 <div align="center">
 
@@ -35,7 +31,7 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 
 ---
 
-## 🔧 Skills (practical & honest)
+## 🔧 Skills 
 **Python · Java · JavaScript · Flask (basic) · Node.js · React (basic) · MongoDB · MySQL · AWS (Cloud Practitioner)**  
 
 ---
@@ -45,21 +41,20 @@ Currently focusing on practical AI, web apps, and deployment with DevOps basics.
 #### 📝 AI-Powered Quiz Generator · `ai-quiz-generator`  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 Automates quiz creation from PDFs using PyMuPDF + Gemini API.  
-🔗 [Demo](https://srinikhil2005.github.io/AI-Powered-Quiz-Generator/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/ai-quiz-generator)
+🔗 [Demo](https://srinikhil2005.github.io/AI-Powered-Quiz-Generator/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/AI-Powered-Quiz-Generator)
 
 ---
 
 #### 💬 Enhanced Feedback Galaxy (E-F-G) · `e-f-g`  
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
 Feedback ingestion + simple analytics platform.  
-🔗 [Live](https://e-f-g-1.onrender.com/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/e-f-g)
-
+🔗 [Live](https://e-f-g-1.onrender.com/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/EDUGALXY)
 ---
 
 #### 📚 Solo Learn (MERN Mini) · `solo-learn`  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 Mini learning platform (auth demo + sample analytics).  
-🔗 [Snapshot](https://srinikhil2005.github.io/Solo-Learn-Learning-Platform-/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/solo-learn)
+🔗 [Snapshot](https://srinikhil2005.github.io/Solo-Learn-Learning-Platform-/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/Solo-Learn-Learning-Platform-)
 
 ---
 
