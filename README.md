@@ -1,126 +1,305 @@
-
 <div align="center">
 
-# Hi 👋, I'm <b>Sri Nikhil</b> (Sri Nikhil Dronadula)  
-<div align="center">
+# Hi 👋, I'm <b>Sri Nikhil Dronadula</b>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F70A8D&width=600&lines=AI+ML+Enthusiast;Full+Stack+Developer;Exploring+Cloud+Architecture+and+DevOps)](https://git.io/typing-svg)
+### 🤖 AI/ML Engineer in Progress | Generative AI | Computer Vision | Agentic AI
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=F70A8D&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+Deep+Learning;Agentic+AI+%7C+AI+Engineering;Building+AI+Systems+from+Idea+to+Deployment" />
+
+<br/>
+
+<a href="mailto:dronasrinikhil@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-c14438?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://portfolio-git-main-srinikhil2005s-projects.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-View-000?style=for-the-badge&logo=vercel"/>
+</a>
+<a href="http://www.linkedin.com/in/srinikhildronadula">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/SRINIKHIL2005">
+<img src="https://img.shields.io/badge/GitHub-@SRINIKHIL2005-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
+---
+
+## 🧠 About Me
+
+I'm a **Computer Science student and AI/ML developer** focused on building practical intelligent systems.
+
+My interests span:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* ✨ Generative AI & LLMs
+* 🔎 RAG & Semantic Search
+* 🧩 Agentic AI
+* 🎯 AI-powered automation
+* ⚙️ AI API & model integration
+
+I enjoy taking an AI problem from **research → experimentation → implementation → deployment** and turning it into something that actually works.
+
+Currently looking for opportunities as an:
+
+**AI/ML Intern • AI Engineer Intern • Machine Learning Intern • GenAI Intern • Computer Vision Intern • LLM/RAG Intern • AI Engineer**
 
 ---
 
-<!-- Contact badges -->
-<a href="mailto:dronasrinikhil@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dronasrinikhil@gmail.com-c14438?style=for-the-badge&logo=gmail"/></a>
-<a href="https://portfolio-git-main-srinikhil2005s-projects.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-View-000?style=for-the-badge&logo=vercel"/></a>
-<a href="http://www.linkedin.com/in/srinikhildronadula"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/SRINIKHIL2005"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@SRINIKHIL2005-181717?style=for-the-badge&logo=github"/></a>
+## 🚀 What I Build
+
+### 🤖 Generative AI
+
+* LLM-powered applications
+* Prompt engineering & optimization
+* Gemini API integrations
+* RAG pipelines
+* Embeddings & vector search
+* AI assistants and automation
+
+### 👁️ Computer Vision
+
+* Object detection
+* Image classification
+* Face recognition
+* Video analytics
+* Vision Transformers
+* Real-time surveillance AI
+
+### 🧩 Agentic AI
+
+* Multi-step AI workflows
+* Tool-using agents
+* Situation-aware systems
+* AI decision pipelines
+* Vision + language reasoning
+
+### ⚙️ AI Engineering
+
+* Model/API integration
+* FastAPI & Flask inference services
+* AI application backends
+* Model evaluation
+* Token & API usage optimization
+* End-to-end AI prototypes
 
 ---
 
-</div>
+# ⭐ Featured AI Projects
 
-## 👨‍💻 About Me
-AI & Web Developer • AWS Cloud Practitioner  
-I build small, end-to-end projects that go from idea → prototype → demo.  
-Currently focusing on practical AI, web apps, and deployment with DevOps basics.  
+## 🛡️ VisionGuard AI
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech  
-👩🏻‍🎓 Studying Computer Science at KL University Hyderabad  
-🎨 Experimenting with end-to-end apps (idea → prototype → deployment)  
-💭 Currently learning transfer learning, CI/CD with Jenkins, and Docker basics  
+**AI-Powered Intelligent Surveillance System**
+
+VisionGuard AI combines multiple computer-vision and AI components to analyze surveillance footage and identify potentially dangerous situations.
+
+### Key Components
+
+* 🎯 YOLO-based object detection
+* 🔫 Weapon/threat detection
+* 👤 Face recognition
+* 🧠 Deep learning-based analysis
+* 🚨 Risk assessment
+* 📹 Real-time video processing
+
+**Focus:** Computer Vision • Deep Learning • AI Surveillance
 
 ---
 
-## 🚀 Current Focus
-- 🧠 Learning basics (TensorFlow/Keras)  
-- ⚡ Building lightweight Flask/Node APIs to serve model predictions  
-- 🐳 Exploring CI/CD with Jenkins + Docker (for small demos)  
+## 🧠 PromptOS
+
+**AI Prompt Optimization & Evaluation Platform**
+
+PromptOS explores how prompts and model selection influence the quality, consistency, and efficiency of LLM applications.
+
+### Key Components
+
+* ✨ Gemini API integration
+* 🧪 Prompt experimentation
+* 📊 Response evaluation
+* 🔢 Token optimization
+* 🤖 Model comparison
+* ⚡ AI-powered workflows
+
+**Focus:** Generative AI • LLMs • Prompt Engineering • AI APIs
 
 ---
 
-## 🛠️ Skills
+## 👁️ AETHERIS
 
-### ✅ Comfortable With
-- Languages: C, Python, Java, JavaScript  
-- Frontend: HTML, CSS, React (basic)  
-- Backend: Node.js, Flask (basic)  
-- Databases: MySQL, MongoDB  
-- Cloud: AWS (Cloud Practitioner certified)  
-- Tools: Git, GitHub  
+**An Agentic Vision-Language Framework for Adaptive Situation-Aware Surveillance**
 
+AETHERIS explores the combination of **computer vision, vision-language models, and agentic AI** to build surveillance systems capable of understanding situations rather than simply detecting individual objects.
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,nodejs,flask" />
-  <br/>
-  <!-- Databases & Cloud -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,aws,docker" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+### Key Concepts
 
-### 🚀 Currently Exploring
-- TensorFlow / Keras (Transfer Learning)  
-- Docker & Jenkins (CI/CD pipelines)
-- Deep Learning 
-- PyTorch (LLMs & Gemini API basics)
-  
+* 👁️ Vision-language models
+* 🧩 Agentic reasoning
+* 🎯 Situation awareness
+* 🧠 Contextual analysis
+* 🚨 Intelligent event interpretation
+* 🔄 Adaptive AI workflows
+
+**Focus:** Agentic AI • VLMs • Computer Vision • LLMs
+
+---
+
+## 📝 AI-Powered Quiz Generator
+
+An AI application that automatically generates quizzes from educational PDFs.
+
+### Technologies
+
+* Python
+* PyMuPDF
+* Gemini API
+* Prompt Engineering
+
+**Focus:** Generative AI • LLM APIs • Document Intelligence
+
+🔗 [Repository](https://github.com/SRINIKHIL2005/AI-Powered-Quiz-Generator)
+
+---
+
+## 💬 Enhanced Feedback Galaxy
+
+An AI-ready feedback ingestion and analytics platform designed to collect, organize, and analyze user feedback.
+
+### Technologies
+
+* Node.js
+* MongoDB
+* Data processing
+* Analytics
+
+**Focus:** AI Data Pipelines • Feedback Intelligence • Analytics
+
+🔗 [Repository](https://github.com/SRINIKHIL2005/EDUGALXY)
+
+---
+
+# 🛠️ AI Tech Stack
+
+### 🤖 AI / ML
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
+**Python • PyTorch • TensorFlow • Keras • Scikit-learn**
+
+### 👁️ Computer Vision
+
+**YOLO • OpenCV • CNNs • Vision Transformers • Image Classification • Object Detection • Face Recognition**
+
+### ✨ Generative AI
+
+**LLMs • Gemini API • Prompt Engineering • RAG • Embeddings • Vector Search • AI Agents • VLMs**
+
+### 🧩 AI Frameworks & APIs
+
+**LangChain • FastAPI • Flask • REST APIs • FAISS**
+
+### 🗄️ Data & Databases
+
+**MongoDB • MySQL • PostgreSQL • Firebase**
+
+### 💻 Engineering
+
+**Python • Java • JavaScript • React • Node.js • Git • GitHub**
+
 ---
 
-## ⭐ Featured Projects
+# 📚 Currently Learning
 
-#### 📝 AI-Powered Quiz Generator · `ai-quiz-generator`  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-Automates quiz creation from PDFs using PyMuPDF + Gemini API.  
-🔗 [Demo](https://srinikhil2005.github.io/AI-Powered-Quiz-Generator/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/AI-Powered-Quiz-Generator)
-
----
-
-#### 💬 Enhanced Feedback Galaxy (E-F-G) · `e-f-g`  
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
-Feedback ingestion & analytics platform (Node.js + MongoDB).  
-🔗 [Live](https://e-f-g-1.onrender.com/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/EDUGALXY)
+* 🧠 Advanced Deep Learning
+* 🤖 LLM architectures and evaluation
+* 🔎 Advanced RAG systems
+* 🧩 Agentic AI architectures
+* 👁️ Vision-Language Models
+* 📊 Applied Statistics for ML
+* ☁️ Deploying AI systems
+* ⚡ Building production-ready AI pipelines
 
 ---
 
-#### 📚 Solo Learn (MERN Mini) · `solo-learn`  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-Mini learning platform (auth demo + sample analytics).  
-🔗 [Snapshot](https://srinikhil2005.github.io/Solo-Learn-Learning-Platform-/) · 🔗 [Repo](https://github.com/SRINIKHIL2005/Solo-Learn-Learning-Platform-)
+# 🎯 AI Career Focus
+
+I'm actively interested in opportunities involving:
+
+| Role                           | Interest |
+| ------------------------------ | -------- |
+| 🤖 AI Engineer Intern          | ⭐⭐⭐⭐⭐    |
+| 🧠 Machine Learning Intern     | ⭐⭐⭐⭐⭐    |
+| ✨ Generative AI Intern         | ⭐⭐⭐⭐⭐    |
+| 👁️ Computer Vision Intern     | ⭐⭐⭐⭐⭐    |
+| 🧩 Agentic AI Intern           | ⭐⭐⭐⭐⭐    |
+| 🔎 LLM / RAG Intern            | ⭐⭐⭐⭐⭐    |
+| 🧠 Deep Learning Intern        | ⭐⭐⭐⭐     |
+| ⚙️ AI Software Engineer Intern | ⭐⭐⭐⭐     |
+
+I'm particularly interested in teams working on **Generative AI, Computer Vision, Agentic AI, LLM applications, AI automation, and intelligent systems**.
 
 ---
 
-## 📊 GitHub Stats & Activity
+# 📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIKHIL2005&layout=compact&theme=radical" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRINIKHIL2005&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIKHIL2005&theme=radical&hide_total_contributions=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SRINIKHIL2005&theme=radical&hide_total_contributions=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SRINIKHIL2005&theme=radical&row=1&column=6" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SRINIKHIL2005&theme=radical&row=1&column=6" />
 </p>
 
+---
+
+# 🔬 My AI Development Approach
+
+```text
+Problem
+   ↓
+Research & Dataset Exploration
+   ↓
+Model / LLM Selection
+   ↓
+Experimentation
+   ↓
+Evaluation
+   ↓
+AI Pipeline Development
+   ↓
+API / Application Integration
+   ↓
+Deployment
+```
+
+I believe the best way to learn AI is to **build, experiment, break things, debug them, and iterate**.
 
 ---
 
-## 📫 Contact
-- 📧 Email: **dronasrinikhil@gmail.com**  
-- 🔗 LinkedIn: [Sri Nikhil Dronadula](http://www.linkedin.com/in/srinikhildronadula)  
-- 🌐 Portfolio: [View Here](https://portfolio-git-main-srinikhil2005s-projects.vercel.app/)
+# 📫 Let's Connect
+
+📧 **Email:** [dronasrinikhil@gmail.com](mailto:dronasrinikhil@gmail.com)
+
+🔗 **LinkedIn:** [Sri Nikhil Dronadula](http://www.linkedin.com/in/srinikhildronadula)
+
+🌐 **Portfolio:** [View Portfolio](https://portfolio-git-main-srinikhil2005s-projects.vercel.app/)
+
+💻 **GitHub:** [@SRINIKHIL2005](https://github.com/SRINIKHIL2005)
 
 ---
+
+<div align="center">
+
+### Building AI. Learning continuously. Solving real problems.
+
+**Open to AI/ML Internships • GenAI • Computer Vision • LLMs • Agentic AI**
+
+</div>
