@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm <b>Sri Nikhil Dronadula</b>
 
-### 🤖 AI/ML Engineer in Progress | Generative AI | Computer Vision | Agentic AI
+### AI/ML Engineer in Progress | Generative AI | Computer Vision | Agentic AI
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=F70A8D&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+Deep+Learning;Agentic+AI+%7C+AI+Engineering;Building+AI+Systems+from+Idea+to+Deployment" />
 
@@ -229,16 +229,16 @@ An AI-ready feedback ingestion and analytics platform designed to collect, organ
 
 I'm actively interested in opportunities involving:
 
-| Role                           | Interest |
-| ------------------------------ | -------- |
-| 🤖 AI Engineer Intern          | ⭐⭐⭐⭐⭐    |
-| 🧠 Machine Learning Intern     | ⭐⭐⭐⭐⭐    |
-| ✨ Generative AI Intern         | ⭐⭐⭐⭐⭐    |
-| 👁️ Computer Vision Intern     | ⭐⭐⭐⭐⭐    |
-| 🧩 Agentic AI Intern           | ⭐⭐⭐⭐⭐    |
-| 🔎 LLM / RAG Intern            | ⭐⭐⭐⭐⭐    |
-| 🧠 Deep Learning Intern        | ⭐⭐⭐⭐     |
-| ⚙️ AI Software Engineer Intern | ⭐⭐⭐⭐     |
+| Role                                      |     Interest    |
+| ------------------------------------------| ----------------|
+| 🤖 AI Engineer Intern/Full time          | ⭐⭐⭐⭐⭐    |
+| 🧠 Machine Learning Intern/Full time     | ⭐⭐⭐⭐⭐    |
+| ✨ Generative AI Intern/Full time        | ⭐⭐⭐⭐⭐    |
+| 👁️ Computer Vision Intern/Full time      | ⭐⭐⭐⭐⭐    |
+| 🧩 Agentic AI Intern/Full time           | ⭐⭐⭐⭐⭐    |
+| 🔎 LLM / RAG Intern/Full time            | ⭐⭐⭐⭐⭐    |
+| 🧠 Deep Learning Intern/Full time        | ⭐⭐⭐⭐      |
+| ⚙️ AI Software Engineer Intern/Full time | ⭐⭐⭐⭐      |
 
 I'm particularly interested in teams working on **Generative AI, Computer Vision, Agentic AI, LLM applications, AI automation, and intelligent systems**.
 
